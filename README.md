@@ -1,1 +1,1 @@
-npm install in server,contact_manager
+npm install in server,mainDirectory
